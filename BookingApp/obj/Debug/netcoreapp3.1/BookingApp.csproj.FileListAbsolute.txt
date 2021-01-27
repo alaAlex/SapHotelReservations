@@ -1,0 +1,16 @@
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.exe
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\bin\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.csprojAssemblyReference.cache
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.csproj.CopyComplete
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\alabr\source\repos\SapHotelReservations2\BookingApp\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache

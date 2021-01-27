@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LfyW9IEpNEuyx5La9yznGXbcqKKe4QCLII/i5Z+dDP2cRYHY0rUuVWW12pnYXJm+Jtr2a17AV1PHbhA8t01DjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alabr\\source\\repos\\SapHotelReservations2\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alabr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alabr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

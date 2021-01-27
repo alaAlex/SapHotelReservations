@@ -1,0 +1,16 @@
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Tests.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Tests.pdb
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Data.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Data.pdb
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\obj\Debug\Tests.dll
+C:\Users\alabr\source\repos\SapHotelReservations2\Tests\obj\Debug\Tests.pdb
